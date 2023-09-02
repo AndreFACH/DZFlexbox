@@ -3,9 +3,9 @@
 
 
 @font-face {
-    font-family: 'graphik_lcgregular';
-    src: url('../images/Новая\ папка/graphik_lcgregular') format('woff2'),
-         url(../images/Новая\ папка/graphik_lcgregular') format('woff');
+    font-family: 'Graphik LCG';
+    src: url('../images/fonts/graphiklcg-regular-webfont.woff2') format('woff2'),
+         url('../images/fonts/graphiklcg-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -15,9 +15,9 @@
 
 
 @font-face {
-    font-family: 'graphik_lcgsemibold';
-    src: url('g../images/Новая\ папка/graphik_lcgregular') format('woff2'),
-         url('../images/Новая\ папка/graphik_lcgregular') format('woff');
+    font-family: 'Graphik LCG';
+    src: url('../images/fonts/graphiklcg-semibold-webfont.woff2') format('woff2'),
+         url('../images/fonts/graphiklcg-semibold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
